@@ -68,3 +68,14 @@ The CNN model uses several **convolutional layers**, **activation functions**, a
 Install the dependencies using:
 ```bash
 pip install -r requirements.txt
+
+
+## Results
+
+After training, the model is evaluated on the testing dataset, achieving a high classification accuracy across all six categories. Detailed performance metrics, including **precision**, **recall**, and **F1 scores**, are provided in the notebook.
+
+## Conclusion
+
+This project demonstrates a successful implementation of a **CNN-based image classification** model using Python. It effectively classifies images into six categories, solving the problem posed by Intel for their image dataset.
+
+Feel free to explore the notebook for detailed insights into the model, dataset, and evaluation.
