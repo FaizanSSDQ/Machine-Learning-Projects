@@ -50,9 +50,7 @@ To get started with any project:
 4. Run the code and explore the results!
 
 ```bash
-git clone https://github.com/your-username/machine-learning-projects.git
-
-## Requirements
+git clone https://github.com/your-username/machine-learning-projects.git## Requirements
 Each project will have its own set of dependencies which will be mentioned in their respective README files. Some of the common libraries used across projects may include:
 
 **Python 3.x**
