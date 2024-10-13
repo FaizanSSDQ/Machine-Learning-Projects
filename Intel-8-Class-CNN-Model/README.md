@@ -68,6 +68,7 @@ The CNN model uses several **convolutional layers**, **activation functions**, a
 Install the dependencies using:
 ```bash
 pip install -r requirements.txt
+```bash
 
 
 ## Results
