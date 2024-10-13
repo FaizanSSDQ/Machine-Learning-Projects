@@ -65,10 +65,7 @@ The CNN model uses several **convolutional layers**, **activation functions**, a
 - scikit-learn
 - Kaggle API (optional for dataset download)
 
-Install the dependencies using:
-```bash
-pip install -r requirements.txt
-```bash
+
 
 
 ## Results
