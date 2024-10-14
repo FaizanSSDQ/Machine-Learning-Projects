@@ -61,24 +61,24 @@ To get started, clone this repository and install the necessary dependencies.
    ```bash
    pip install tensorflow keras matplotlib numpy pandas scikit-learn
    ```
-# **How to Run**
+## **How to Run**
 1. Open the Jupyter Notebook file Digit_Classifier.ipynb in your environment.
 2. Run all cells to train the model, test the predictions, and visualize the results.
 3. Optionally, you can modify the model architecture, the number of epochs, or any other hyperparameters and re-run the notebook.
 
-# **Results**
+## **Results**
 The model achieves a high level of accuracy in recognizing handwritten digits, both on training and test sets. After training for 5 epochs, it is capable of making accurate predictions with softmax probabilities.
 
-# **Sample Output**
+## **Sample Output**
 The notebook also contains visualization of predictions on a subset of test data where the model successfully identifies the correct digits.
 
-# **Conclusion**
+## **Conclusion**
 This project demonstrates a simple yet effective neural network for handwritten digit classification. By utilizing Dense layers and activation functions like ReLU and softmax, the model achieves good accuracy. The project provides a solid foundation for understanding deep learning concepts and applying them to image classification problems.
 
-## Contributing
+### Contributing
 Feel free to contribute to this project by opening a pull request or suggesting improvements. Contributions can include improving model accuracy, adding new features, or optimizing code performance.
 
-# **License**
+## **License**
 
 You can copy this text into your `README.md` file directly for the project. The Markdown format used here ensures proper structure and styling when displayed on GitHub or other Markdown-compatible platforms.
 
