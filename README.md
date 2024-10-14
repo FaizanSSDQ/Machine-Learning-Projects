@@ -1,5 +1,37 @@
 # Machine-Learning-Projects
-This Repository contains projects related to Machine Learning, Artificial Intelligence, Neural Networks etc.
+This repository contains collection of all of my machine learning & Artifical Intelligenc Projects. But let me first introduce myself.
+
+## **My Introduction**
+I am Faizan Saleem Siddiqui, an M. Phil Research Scholar, a freelaner and  Visiting Faculty Member at Quaid-i-Azam University Islamabad. I have working in the filed of Artificial Intelligenece since last 2 years as a freelancer as well as researcher. There are more than 10 industrial & Comercial Projects at my credit.
+This Repository contains all the projects that I have done related to Machine Learning, Artificial Intelligence, Neural Networks etc. 
+
+Learn more about me here on my LinkedIn
+https://www.linkedin.com/in/faizan-saleem-siddiqui-4411bb247/
+
+
+## **Freelance Services**
+As a freelancer I am providing my services in the field of
+- **Python Developer/Programmer**
+- **Machine Learning Developer**
+- **AI Engineer**
+- **Data Engineer**
+- **Data Scientist**
+- **Image Processing & Computer Vision**
+
+## **My Academics**
+I am Graduate of Electronics from Quaid-i-Azam University Islamabad. Durring graduation I have worked in th field of Embedded Systms, Autonomous Vehicle Engineering, Microcontrollers, Automation, Cloud Computing and Signal Processing. I have done more than 15 Projects in this field. 
+Now I am persuing my M. Phil in Electronics in which my areas of Research are Semantic Segmentation for Autonomous Vehicle, Reinforcement Learning for flapping Wings drone.
+
+### **Checkout My Electronics Engineering Projects**
+You can Check out my Projects for Electronics Engineering Here:
+https://github.com/FaizanSSDQ/Electronics-Engineering-Projects.git
+
+### **Checkout My Data Engineering Project Here**
+And if you want to chekc my Data Enginering, Data Science & Data Visualization Projects, click here:
+https://github.com/FaizanSSDQ/Data-Engineering-Visualization-Projects.git
+
+
+
 
 ## Overview
 Welcome to the Machine Learning Projects repository! This collection showcases a variety of projects that explore the fascinating world of machine learning, artificial intelligence, deep learning, neural networks, transformers, and autoencoders. Each project highlights innovative approaches to solving real-world problems and demonstrates the practical applications of machine learning techniques across various domains. Whether you are a seasoned practitioner, a student, or simply someone interested in the field, this repository offers valuable insights and resources to enhance your understanding and skills in machine learning.
