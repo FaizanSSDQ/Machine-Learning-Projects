@@ -6,6 +6,7 @@ I am Faizan Saleem Siddiqui, an M. Phil Research Scholar, a freelaner and  Visit
 This Repository contains all the projects that I have done related to Machine Learning, Artificial Intelligence, Neural Networks etc. 
 
 Learn more about me here on my LinkedIn
+<br>
 https://www.linkedin.com/in/faizan-saleem-siddiqui-4411bb247/
 
 
